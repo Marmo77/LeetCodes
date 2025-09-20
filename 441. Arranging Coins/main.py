@@ -12,6 +12,8 @@ class Solution:
             if n < 0:
                 # print("POZIIOM",staircase_lvl)
                 return staircase_lvl-1
+        
+        # matematyczny wzor (k(k *1)) /2
                 
             
         
